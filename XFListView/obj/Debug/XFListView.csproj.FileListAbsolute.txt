@@ -1,0 +1,15 @@
+/Users/fadouaamrou/Projects/XFListView/XFListView/obj/Debug/XFListView.csprojResolveAssemblyReference.cache
+/Users/fadouaamrou/Projects/XFListView/XFListView/obj/Debug/XFListView.csproj.CoreCompileInputs.cache
+/Users/fadouaamrou/Projects/XFListView/XFListView/bin/Debug/XFListView.dll
+/Users/fadouaamrou/Projects/XFListView/XFListView/bin/Debug/XFListView.pdb
+/Users/fadouaamrou/Projects/XFListView/XFListView/bin/Debug/Xamarin.Forms.Core.dll
+/Users/fadouaamrou/Projects/XFListView/XFListView/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/fadouaamrou/Projects/XFListView/XFListView/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/fadouaamrou/Projects/XFListView/XFListView/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/fadouaamrou/Projects/XFListView/XFListView/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/fadouaamrou/Projects/XFListView/XFListView/bin/Debug/Xamarin.Forms.Core.xml
+/Users/fadouaamrou/Projects/XFListView/XFListView/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/fadouaamrou/Projects/XFListView/XFListView/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/fadouaamrou/Projects/XFListView/XFListView/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/fadouaamrou/Projects/XFListView/XFListView/obj/Debug/XFListView.dll
+/Users/fadouaamrou/Projects/XFListView/XFListView/obj/Debug/XFListView.pdb

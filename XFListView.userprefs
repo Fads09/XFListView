@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A7E73D13-0F69-413D-902B-E499E3422446}|Default">
+  <MonoDevelop.Ide.ItemProperties.XFListView.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E8D3A3A9-693B-4F2F-9C47-3949784CB051">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.XFListView.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFListView/XFListView.cs">
+    <Files>
+      <File FileName="XFListView/XFListViewPage1.cs" Line="9" Column="22" />
+      <File FileName="XFListView/XFListView.cs" Line="47" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="17" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XFListView" expanded="True">
+            <Node name="XFListView" expanded="True">
+              <Node name="XFListView.cs" selected="True" />
+            </Node>
+            <Node name="XFListView.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
